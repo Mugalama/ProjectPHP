@@ -47,4 +47,5 @@ echo $comment;
 echo "<br>";
 echo $gender;
 echo "<h2> ---- End ---- </h2>";
+echo "<h2> ------------- </h2>";
 ?>
