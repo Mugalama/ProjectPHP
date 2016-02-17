@@ -46,6 +46,7 @@ echo "<br>";
 echo $comment;
 echo "<br>";
 echo $gender;
-echo "<h2> ---- End ---- </h2>";
-echo "<h2> ------------- </h2>";
+echo "<h2> ---- 1st line ---- </h2>";
+echo "<h2> -----2nd line ---- </h2>";
+echo "<h2> -----3rd line ---- </h2>";
 ?>
